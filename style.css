@@ -1,0 +1,81 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  background-image: url("https://i.ibb.co/ctJrtHs/Projeto-P3-background.png");
+  background-size: 400px;
+}
+
+.container {
+  margin: auto;
+  align-content: center;
+  position: relative;
+  text-align: center;
+  background: #ffffff;
+  padding: 20px;
+  width: 300px;
+  border-radius: 25px;
+}
+
+.page-title {
+  color: #001f6d;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #485157;
+  margin-top: 16px;
+}
+
+.page-logo {
+  width: 30px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.linha {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.coluna-50 {
+  width: 50%;
+  text-align: center;
+}
+
+@media (max-height: 500px) {
+  body {
+    min-height: 800px;
+  }
+}
+
+input {
+  margin: 4px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #eb3a00;
+  font-family: "Roboto Mono", monospace;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.resultadoMentalista {
+  color: #485157;
+  text-align: center;
+  margin-top: 16px;
+}
+
+.resultadoSorteador {
+  color: #485157;
+  text-align: center;
+  margin-top: 16px;
+  font-size: 20px;
+}
