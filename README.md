@@ -1,4 +1,4 @@
-# Nome do meu projeto
+# ADIVINHADOR E SORTEADOR
 
 Rápida descrição do objetivo de fazer esse projeto
 
