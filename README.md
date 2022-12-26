@@ -1,6 +1,6 @@
 # ADIVINHADOR E SORTEADOR
 
-| :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/sarahcnog  |
+| :placard: Vitrine.Dev |   |
 | -------------  | --- |
 | :sparkles: Nome        | **Adivinhador e Sorteador**
 | :label: Tecnologias | java, html, CSS
