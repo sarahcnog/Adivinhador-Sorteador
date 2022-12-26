@@ -1,7 +1,5 @@
 # ADIVINHADOR E SORTEADOR
 
-Rápida descrição do objetivo de fazer esse projeto
-
 | :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/sarahcnog  |
 | -------------  | --- |
 | :sparkles: Nome        | **Adivinhador e Sorteador**
